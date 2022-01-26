@@ -1,0 +1,6 @@
+[submodule "List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words"]
+	path = List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words
+	url = git@github.com:LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words.git
+[submodule "FrequencyWords"]
+	path = FrequencyWords
+	url = git@github.com:hermitdave/FrequencyWords.git
